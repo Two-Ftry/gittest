@@ -1,4 +1,5 @@
 add by user1
 share file
 edit by user2
+user2 add some common thing!!!
 add something to share.txt
